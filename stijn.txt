@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BAE8-606C
+
+ Directory of C:\Scrum\S8
+
+22/11/2018  09:20    <DIR>          .
+22/11/2018  09:20    <DIR>          ..
+22/11/2018  09:20                 0 stijn.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  402,943,680,512 bytes free
