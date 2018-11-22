@@ -1,0 +1,10 @@
+ Volume in drive C is Acer
+ Volume Serial Number is A884-4D05
+
+ Directory of C:\SCRUM\S8
+
+22-11-2018  09:20    <DIR>          .
+22-11-2018  09:20    <DIR>          ..
+22-11-2018  09:21                 0 jesse.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  15.217.078.272 bytes free
