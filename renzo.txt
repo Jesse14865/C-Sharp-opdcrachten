@@ -1,0 +1,10 @@
+ Volume in drive D is Data
+ Volume Serial Number is 9C9A-4B5C
+
+ Directory of D:\SCRUM\S8
+
+22-11-2018  09:20    <DIR>          .
+22-11-2018  09:20    <DIR>          ..
+22-11-2018  09:20                 0 renzo.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  142.878.863.360 bytes free
