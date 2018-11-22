@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 2E94-49A9
+
+ Directory of D:\ScrumS8\S8
+
+22-11-2018  09:20    <DIR>          .
+22-11-2018  09:20    <DIR>          ..
+22-11-2018  09:20                 0 mohammed.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  58.820.218.880 bytes free

@@ -1,0 +1,10 @@
+ Volume in drive D is Data
+ Volume Serial Number is 5C52-2838
+
+ Directory of D:\scrum\S8
+
+22-11-2018  09:21    <DIR>          .
+22-11-2018  09:21    <DIR>          ..
+22-11-2018  09:21                 0 Tristan.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  876.367.556.608 bytes free
