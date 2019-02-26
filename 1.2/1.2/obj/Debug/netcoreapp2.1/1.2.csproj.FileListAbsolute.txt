@@ -1,0 +1,10 @@
+C:\Users\jesse\Desktop\SCRUM\1.2\1.2\bin\Debug\netcoreapp2.1\1.2.deps.json
+C:\Users\jesse\Desktop\SCRUM\1.2\1.2\bin\Debug\netcoreapp2.1\1.2.runtimeconfig.json
+C:\Users\jesse\Desktop\SCRUM\1.2\1.2\bin\Debug\netcoreapp2.1\1.2.runtimeconfig.dev.json
+C:\Users\jesse\Desktop\SCRUM\1.2\1.2\bin\Debug\netcoreapp2.1\1.2.dll
+C:\Users\jesse\Desktop\SCRUM\1.2\1.2\bin\Debug\netcoreapp2.1\1.2.pdb
+C:\Users\jesse\Desktop\SCRUM\1.2\1.2\obj\Debug\netcoreapp2.1\1.2.csproj.CoreCompileInputs.cache
+C:\Users\jesse\Desktop\SCRUM\1.2\1.2\obj\Debug\netcoreapp2.1\1.2.AssemblyInfoInputs.cache
+C:\Users\jesse\Desktop\SCRUM\1.2\1.2\obj\Debug\netcoreapp2.1\1.2.AssemblyInfo.cs
+C:\Users\jesse\Desktop\SCRUM\1.2\1.2\obj\Debug\netcoreapp2.1\1.2.dll
+C:\Users\jesse\Desktop\SCRUM\1.2\1.2\obj\Debug\netcoreapp2.1\1.2.pdb
